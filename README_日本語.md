@@ -1,6 +1,6 @@
 # VibeVoice-ASR 長時間音声メモリ最適化スクリプト
 
-Mac Mini (Apple Silicon) のユニファイドメモリ 24〜25GB 環境で、**55分以上の長時間音声**を VibeVoice-ASR 4bit/8bit モデルで書き起こすためのスクリプトです。
+Mac Mini (Apple Silicon) のユニファイドメモリ 24〜25GB 環境で、**長時間音声**を VibeVoice-ASR 4bit/8bit モデルで書き起こすためのスクリプトです。
 
 ---
 
